@@ -1,2 +1,2 @@
 myLast :: [a] -> a
-myLast l = last l
+myLast l = (head . reverse) l
