@@ -1,9 +1,6 @@
 module Main (main) where
 
-import MyLib ( someFunc, listToStr )
-
 main :: IO ()
 main = do {
-    someFunc
-;   putStrLn (listToStr [1 :: Int, 2, 3, 4])
+    putStrLn "No functionality for Main yet, look at the src/Qx.hs files."
 }
