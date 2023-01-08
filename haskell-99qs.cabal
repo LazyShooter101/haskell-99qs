@@ -26,6 +26,17 @@ source-repository head
 library
   exposed-modules:
       MyLib
+      Q1
+      Q10
+      Q11
+      Q2
+      Q3
+      Q4
+      Q5
+      Q6
+      Q7
+      Q8
+      Q9
   other-modules:
       Paths_haskell_99qs
   hs-source-dirs:

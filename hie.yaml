@@ -1,13 +1,13 @@
 cradle:
   stack:
     - path: "./src"
-      component: "first-stack-project:lib"
+      component: "haskell-99qs:lib"
 
     - path: "./app/Main.hs"
-      component: "first-stack-project:exe:first-stack-project-exe"
+      component: "haskell-99qs:exe:haskell-99qs-exe"
 
-    - path: "./app/Paths_first_stack_project.hs"
-      component: "first-stack-project:exe:first-stack-project-exe"
+    - path: "./app/Paths_haskell_99qs.hs"
+      component: "haskell-99qs:exe:haskell-99qs-exe"
 
     - path: "./test"
-      component: "first-stack-project:test:first-stack-project-test"
+      component: "haskell-99qs:test:haskell-99qs-test"

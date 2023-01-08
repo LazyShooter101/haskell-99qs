@@ -1,2 +1,5 @@
+module Q1 
+    ( myLast ) where
+
 myLast :: [a] -> a
-myLast l = (head . reverse) l
+myLast = (head . reverse)

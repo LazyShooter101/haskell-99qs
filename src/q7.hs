@@ -1,3 +1,6 @@
+module Q7
+    (NestedList, flatten) where
+
 data NestedList a = Elem a | List [NestedList a]
 
 flatten :: NestedList a -> [a]
