@@ -25,14 +25,19 @@ source-repository head
 
 library
   exposed-modules:
-      MyLib
+      Combinators
       Q1
       Q10
       Q11
       Q2
       Q3
       Q4
+      Q46
+      Q47
+      Q48
+      Q49
       Q5
+      Q50
       Q6
       Q7
       Q8
