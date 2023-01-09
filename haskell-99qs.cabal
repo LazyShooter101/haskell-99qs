@@ -26,22 +26,17 @@ source-repository head
 library
   exposed-modules:
       Combinators
-      Q1
-      Q10
-      Q11
-      Q2
-      Q3
-      Q4
+      Q31
+      Q32
+      Q33
+      Q34
+      Q35
+      Q36
       Q46
       Q47
       Q48
       Q49
-      Q5
       Q50
-      Q6
-      Q7
-      Q8
-      Q9
   other-modules:
       Paths_haskell_99qs
   hs-source-dirs:
